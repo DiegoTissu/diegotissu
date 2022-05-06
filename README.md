@@ -24,8 +24,6 @@
   <a href="https://api.whatsapp.com/send?phone=5561986360010&text=Olá!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:diegotissu@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:diegotissu@hotmail.com" target="_blank"></a> 
   <a href = "mailto:diegotissu7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diegomiranda32/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/diegotissu/diegotissu/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/diegomiranda32/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
 </div>
